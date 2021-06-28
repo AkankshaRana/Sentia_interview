@@ -11,3 +11,4 @@ Submission for sentia coding challenge.
 5. Hilt for Dependency Injection
 6. Retrofit
 7. Glide
+8. Navigation component
